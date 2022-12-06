@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/stars%20⭐-20-yellow)
-![](https://img.shields.io/badge/days%20completed-10-blue)
+![](https://img.shields.io/badge/days%20completed%20📅-10-blue)
 
 # AdventofCode2021
 
