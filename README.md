@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/stars%20⭐-20-yellow)
 ![](https://img.shields.io/badge/days%20completed%20📅-10-blue)
 
-# AdventofCode2021
+# Advent of Code 2021
 
 This was my try on the Advent of code of 2021 with Java, sadly i only did 10 Days, but i got both stars on every day, so in total i had 20 points in the end.
 
