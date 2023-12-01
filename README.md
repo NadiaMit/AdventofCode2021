@@ -4,6 +4,7 @@
 # Advent of Code 2021 in Java [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 This is my try on the Advent of code of 2021 challanges with Java!
+
 I managed to complete 10 Days and got a total of 20 stars.
 
 ## Structure
