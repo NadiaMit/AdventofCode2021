@@ -1,9 +1,11 @@
 ![](https://img.shields.io/badge/stars%20⭐-20-yellow)
 ![](https://img.shields.io/badge/days%20completed%20📅-10-blue)
 
-# AdventofCode2021
+# Advent of Code 2021 in Java [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-This was my try on the Advent of code of 2021 with Java, sadly i only did 10 Days, but i got both stars on every day, so in total i had 20 points in the end.
+This is my try on the Advent of code of 2021 challanges with Java!
+
+I managed to complete 10 Days and got a total of 20 stars.
 
 ## Structure
 - `Main.java`: in this file you can find the main, that calls the days code. to call the right code, you need to add the right number here:
