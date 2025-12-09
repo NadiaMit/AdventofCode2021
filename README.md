@@ -20,21 +20,6 @@ I managed to complete 10 Days and got a total of 20 stars.
 - Day 9 - [Smoke Basin](https://adventofcode.com/2021/day/9): ⭐⭐
 - Day 10 - [Syntax Scoring](https://adventofcode.com/2021/day/10): ⭐⭐
 - ...
-<!-- - Day 11 - [Movie Theater](https://adventofcode.com/2021/day/11):
-- Day 12 - [Movie Theater](https://adventofcode.com/2021/day/12):
-- Day 13 - [Movie Theater](https://adventofcode.com/2021/day/13):
-- Day 14 - [Movie Theater](https://adventofcode.com/2021/day/14):
-- Day 15 - [Movie Theater](https://adventofcode.com/2021/day/15):
-- Day 16 - [Movie Theater](https://adventofcode.com/2021/day/16):
-- Day 17 - [Movie Theater](https://adventofcode.com/2021/day/17):
-- Day 18 - [Movie Theater](https://adventofcode.com/2021/day/18):
-- Day 19 - [Movie Theater](https://adventofcode.com/2021/day/19):
-- Day 20 - [Movie Theater](https://adventofcode.com/2021/day/20):
-- Day 21 - [Movie Theater](https://adventofcode.com/2021/day/21):
-- Day 22 - [Movie Theater](https://adventofcode.com/2021/day/22):
-- Day 23 - [Movie Theater](https://adventofcode.com/2021/day/23):
-- Day 24 - [Movie Theater](https://adventofcode.com/2021/day/24):
-- Day 25 - [Movie Theater](https://adventofcode.com/2021/day/25): -->
 
 ## Structure
 - `Main.java`: in this file you can find the main, that calls the days code. to call the right code, you need to add the right number here:
