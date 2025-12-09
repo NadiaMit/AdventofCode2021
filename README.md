@@ -7,6 +7,34 @@ This is my try on the Advent of code of 2021 challanges with Java!
 
 I managed to complete 10 Days and got a total of 20 stars.
 
+## My Progress 20/50⭐
+
+- Day 1 - [Sonar Sweep](https://adventofcode.com/2021/day/1): ⭐⭐
+- Day 2 - [Dive!](https://adventofcode.com/2021/day/2): ⭐⭐
+- Day 3 - [Binary Diagnostic](https://adventofcode.com/2021/day/3): ⭐⭐
+- Day 4 - [Giant Squid](https://adventofcode.com/2021/day/4): ⭐⭐
+- Day 5 - [Hydrothermal Venture](https://adventofcode.com/2021/day/5): ⭐⭐
+- Day 6 - [Lanternfish](https://adventofcode.com/2021/day/6): ⭐⭐
+- Day 7 - [The Treachery of Whales](https://adventofcode.com/2021/day/7): ⭐⭐
+- Day 8 - [Seven Segment Search](https://adventofcode.com/2021/day/8): ⭐⭐
+- Day 9 - [Smoke Basin](https://adventofcode.com/2021/day/9): ⭐⭐
+- Day 10 - [Syntax Scoring](https://adventofcode.com/2021/day/10): ⭐⭐
+<!-- - Day 11 - [Movie Theater](https://adventofcode.com/2021/day/11):
+- Day 12 - [Movie Theater](https://adventofcode.com/2021/day/12):
+- Day 13 - [Movie Theater](https://adventofcode.com/2021/day/13):
+- Day 14 - [Movie Theater](https://adventofcode.com/2021/day/14):
+- Day 15 - [Movie Theater](https://adventofcode.com/2021/day/15):
+- Day 16 - [Movie Theater](https://adventofcode.com/2021/day/16):
+- Day 17 - [Movie Theater](https://adventofcode.com/2021/day/17):
+- Day 18 - [Movie Theater](https://adventofcode.com/2021/day/18):
+- Day 19 - [Movie Theater](https://adventofcode.com/2021/day/19):
+- Day 20 - [Movie Theater](https://adventofcode.com/2021/day/20):
+- Day 21 - [Movie Theater](https://adventofcode.com/2021/day/21):
+- Day 22 - [Movie Theater](https://adventofcode.com/2021/day/22):
+- Day 23 - [Movie Theater](https://adventofcode.com/2021/day/23):
+- Day 24 - [Movie Theater](https://adventofcode.com/2021/day/24):
+- Day 25 - [Movie Theater](https://adventofcode.com/2021/day/25): -->
+
 ## Structure
 - `Main.java`: in this file you can find the main, that calls the days code. to call the right code, you need to add the right number here:
 ```java
