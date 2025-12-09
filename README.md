@@ -19,6 +19,7 @@ I managed to complete 10 Days and got a total of 20 stars.
 - Day 8 - [Seven Segment Search](https://adventofcode.com/2021/day/8): ⭐⭐
 - Day 9 - [Smoke Basin](https://adventofcode.com/2021/day/9): ⭐⭐
 - Day 10 - [Syntax Scoring](https://adventofcode.com/2021/day/10): ⭐⭐
+- ...
 <!-- - Day 11 - [Movie Theater](https://adventofcode.com/2021/day/11):
 - Day 12 - [Movie Theater](https://adventofcode.com/2021/day/12):
 - Day 13 - [Movie Theater](https://adventofcode.com/2021/day/13):
