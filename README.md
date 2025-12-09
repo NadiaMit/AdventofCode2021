@@ -5,8 +5,6 @@
 
 This is my try on the Advent of code of 2021 challanges with Java!
 
-I managed to complete 10 Days and got a total of 20 stars.
-
 ## My Progress 20/50⭐
 
 - Day 1 - [Sonar Sweep](https://adventofcode.com/2021/day/1): ⭐⭐
